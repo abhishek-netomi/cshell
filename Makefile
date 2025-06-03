@@ -6,7 +6,7 @@ LDFLAGS =
 
 SRCS = $(wildcard *.c)
 
-EXEC = hello
+EXEC = a.out 
 
 .PHONY = all clean run
 
